@@ -28,8 +28,8 @@ let s:indigo      = '#83769C'
 let s:pink        = '#FF77A8'
 let s:peach       = '#FFCCAA'
 
-let s:background = '#4F473F'
-let s:shade = '#3F372F'
+let s:background = '#38322C'
+let s:shade      = '#2A241F'
 
 function! s:HL(group, fg, bg, attr)
   if !empty(a:fg)
